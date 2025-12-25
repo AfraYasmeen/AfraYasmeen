@@ -13,7 +13,7 @@
 
   <br/>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Afra%20Yasmeen-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/afra-yasmeen/))
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Afra%20Yasmeen-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afra-yasmeen/)
   [![Gmail](https://img.shields.io/badge/Email-Contact%20Me-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Afra.yasmeen2024@gmail.com)
 
 </div>
@@ -80,13 +80,13 @@ I enjoy taking messy, real-world data and turning it into **production-ready mod
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_title=false&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AfraYasmeen&show_icons=true&theme=default&hide_title=false&count_private=true" alt="GitHub Stats" height="170"/>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfraYasmeen&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
 
   <!-- Streak Stats (optional) -->
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=default" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=AfraYasmeen&theme=default" alt="GitHub Streak"/>
 
 </div>
 
