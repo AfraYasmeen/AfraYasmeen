@@ -94,8 +94,6 @@ I enjoy taking messy, real-world data and turning it into **production-ready mod
 
 ## 🧪 Selected Projects (To Showcase on GitHub)
 
-> 💡 Once you push code/notebooks, link them here as real repos.
-
 - ⚡ **Commercial Electricity Pricing Engine**  
   *Automated Excel + Python + SQL-based engine for half-hourly commercial tariffs (12–36 months).*
 
