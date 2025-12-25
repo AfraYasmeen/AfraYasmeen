@@ -22,7 +22,7 @@
 
 ## 🧭 About Me
 
-I’m an **AI Lead Developer** with experience across:
+I’m an **AI Lead Developer - Team Leader** with experience across:
 
 - 🧠 **AI & Machine Learning** – pricing, forecasting, retention modelling, and churn prediction  
 - ⚡ **Energy Sector Analytics** – tariffs, half-hourly pricing, EV/ASHP/Solar/Battery modelling  
