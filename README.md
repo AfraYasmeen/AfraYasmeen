@@ -25,11 +25,11 @@
 I’m an **AI Lead Developer - Team Leader** with experience across:
 
 - 🧠 **AI & Machine Learning** – pricing, forecasting, retention modelling, and churn prediction  
-- ⚡ **Energy Sector Analytics** – tariffs, half-hourly pricing, EV/ASHP/Solar/Battery modelling  
-- 📊 **Data & Reporting** – Power BI, Excel automation, Tableau, SAP HANA, Azure Data Factory  
-- 💼 **Finance & Tax** – US–Canada Tax (Deloitte), risk & quality management, planning & reporting  
+- ⚡ **Energy Sector Analytics** – Time of Use tariffs building, half-hourly pricing, EV/ASHP/Solar & Battery tariff pricing.  
+- 📊 **Data & Reporting** – Power BI, Excel automation, Tableau, SAP HANA, Azure Data Factory.  
+- 💼 **Finance & Tax** – US–Canada Tax, reporting, analysis, Quality & Risk management.
 
-I enjoy taking messy, real-world data and turning it into **production-ready models, tools, and software**.
+I enjoy taking messy, real-world data and turning it into **production-ready models, tools, and guiding software implementation**.
 
 ---
 
@@ -38,13 +38,13 @@ I enjoy taking messy, real-world data and turning it into **production-ready mod
 **AI Lead Developer – My Utility Genius (MUG), UK**
 
 - Lead AI projects in the **UK energy sector**, focusing on pricing, forecasting, and smart energy assets  
-- Design and maintain **automated pricing engines** for commercial electricity half-hourly tariffs (12–36 months)  
-- Build **ML models (regression, neural networks)** using Reuters market data (generation, fuel, carbon, weather) to predict **electricity and gas tariffs**  
-- Develop **retention prediction models** with feature engineering and classification / neural network algorithms  
-- Play a key role in the **AEM Research Project** for Oxfordshire Council, contributing to ~**£700K revenue**  
+- Designed and maintained **automated pricing engines** for commercial electricity half-hourly tariffs (12–36 months)  
+- Built **ML models (regression, neural networks)** using Reuters market data (generation, fuel, carbon, weather) to predict **electricity and gas tariffs**  
+- Developed **retention prediction models** with feature engineering and classification / neural network algorithms  
+- Played a key role in the **AEM Research Project** for Oxfordshire Council, contributing to ~**£700K revenue** and several awards in UK 
 - Developed a **120-sheet AEM Excel prototype** across all 14 UK DNOs and led its transition to a **fully integrated software platform**  
 - Manage **data migration** from SAP, PowerOn DB and ESRI via **Azure Data Factory, PySpark, MS SQL**, with reporting in **Power BI**  
-- Built automated import/export price models for **SO Energy**, supporting software productisation and QA
+- Built automated import/export price models for **various energy suppliers**, supporting software productisation and QA
 
 ---
 
@@ -111,8 +111,8 @@ I enjoy taking messy, real-world data and turning it into **production-ready mod
 ## 🎓 Education & Certifications
 
 - 🎓 **MSc Data Science & Analytics (with Placement)** – University of Hertfordshire, UK  
-- 🎓 **MBA (Finance, HR minor)** – Osmania University, India  
-- 🎓 **B.Com (Computers)** – Osmania University, India  
+- 🎓 **MBA (major-Finance, minor-HR)** – Osmania University, India  
+- 🎓 **Bachelor of Commerce (Computers)** – Osmania University, India  
 
 **Certifications:**
 
